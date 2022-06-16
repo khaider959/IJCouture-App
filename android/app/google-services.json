@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820140589977",
+    "project_id": "ij-couture",
+    "storage_bucket": "ij-couture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820140589977:android:3500dbb7ae27e4c3cf4908",
+        "android_client_info": {
+          "package_name": "ij.couture.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820140589977-0fniehrgjhpokpfl5je0ka8lpritgon7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpXLR9PKADmGjWFDbPz2rbD_JsqDdsR9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820140589977-0fniehrgjhpokpfl5je0ka8lpritgon7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
